@@ -1,0 +1,65 @@
+12/9/2024  
+Austin Clary, Benjamin Puckhaber, Ruike Lin, Madhu Vuyyuru  
+
+---
+
+## Task #1: Who Are We?  
+Organization and Objectives:
+Our organization, MedTech, is a public health agency committed to providing valuable data analytics sourced from wearable health monitors for the public good. However, we at MedTech do not personally develop or sell wearable health monitoring devices. Our mission is simply to promote ethical and equitable use of data already collected by this potentially life-changing technology..
+Our primary objectives are to enhance preventative care, reduce health disparities, and promote healthier communities - while prioritizing privacy, security, and fairness. Our core values follow the T.E.A. first framework:
+Transparency: Building trust through clear communication and ethical data practices.
+Equity: Ensuring underserved populations benefit from health initiatives.
+Accountability: Engaging stakeholders to align actions with public health priorities.
+Proposed Use of the Technology:
+At Medtech we advocate for the use of wearable health monitoring devices to improve a wide scope of public health outcomes. Analyzing anonymized and encrypted data shared voluntarily by users can provide insights into health trends, including chronic illness prevalence, health behaviors, and environmental influences.
+Apart from improving patient specific healthcare we find the following potential uses:
+Identifying and addressing health disparities in underserved communities.
+Enhancing preparedness for emergencies such as extreme weather or disease outbreaks.
+Supporting evidence-based policies for urban planning, such as improving walkability, access to nutritious food, and addressing environmental health risks.
+Stakeholders: 
+Data Providers (Users):
+The individuals who wear the devices and provide their data voluntarily are central to the success of any public health application. Without their participation, the device's potential to generate insights and drive public health improvements is lost.
+Public Health Professionals:
+Public health professionals are responsible for designing and implementing health initiatives that directly benefit communities, from individual hospitals to statewide initiatives. They analyze data from wearable devices to create actionable strategies.
+Independent Oversight Committee:
+An independent oversight committee ensures the ethical and fair handling of the data, maintaining public trust in the use of the devices and the insights derived from them.
+
+
+Researchers and Policymakers:
+Researchers and policymakers rely on health data insights to make informed decisions about public health policies and research priorities. Their use of the data is critical for driving systemic changes to address health inequities.
+Task #2: Ethical Issues
+Privacy and Data Security:
+Wearable health monitoring devices collect highly sensitive personal data, including heart rate, oxygen levels, and location. While this data is often anonymized, there remains a significant risk that it could be re-identified when combined with auxiliary datasets, potentially leading to personal, social, or financial harm. Unauthorized access or misuse further underscores the importance of robust safeguards.
+To mitigate these risks, the devices must employ encryption and strict access control measures to protect sensitive data, as emphasized by Lundberg. This is not without difficulty, as Floridi and Taddeo highlight the challenges of reidentification and stress the need for advanced anonymization practices. It is often problematic enough that Veliz argues against the inherent risks of storing personal data without proper safeguards, supporting the need for data minimization and strict storage policies. We recognize these concerns and align our ethical obligations to protect user privacy and prevent harm accordingly. In part, our users will be promptly informed of any data breaches, reinforcing transparency and accountability. Furthermore, by limiting the collection of sensitive data to only what is essential (data minimization),  we ensure better privacy protections and reduce risks.
+
+
+Consent & Autonomy:
+To respect user autonomy, wearable health monitoring devices must provide clear and transparent information about how data is collected, stored, and used. Consent policies should be concise and accessible, highlighting potential risks and benefits to allow users to make informed decisions. Users must also have the ability to opt out of certain features or completely discontinue the device’s functions at any time.
+Kleinig’s framework underscores that valid consent requires understanding, transparency, and the option to opt out. Consent should not be a one-time event but an ongoing process, with users receiving regular updates and reminders about how their data is being used. Nissenbaum’s principle of contextual integrity emphasizes that data collection and sharing should align with norms in health contexts, further supporting the need for transparency and limited data use. These practices demand we safeguard personal agency and maintain public trust.
+Equity in Access and Benefits:
+Health technologies risk reinforcing existing disparities if equity is not prioritized. Algorithms that analyze data must account for diverse populations to avoid biases that disproportionately harm marginalized groups. Public health initiatives derived from device data should actively work to reduce disparities and ensure that benefits are equitably distributed across all communities.
+Sullivan warns that biased algorithms and unequal access to these technologies can perpetuate health inequalities, especially if insurance companies or other entities misuse the data. This reinforces the need for affordable access and safeguards against discriminatory practices. Purves and Davis advocate for algorithmic accountability to prevent unfair outcomes, emphasizing the importance of representative datasets. These principles align with the ethical value of justice, ensuring fairness in both the use and outcomes of health data technologies is a must.
+Task #3: Policy Recommendations
+Privacy Protection Policy
+Data Minimization: Only collect essential data to reduce risks.
+Advanced Encryption: Secure all data during storage and transmission.
+Breach Notification Protocol: Notify users immediately of breaches and outline corrective actions.
+Secure Data Storage: Use secure servers with rigid access controls.
+Informed Consent and Autonomy Policy
+Transparent Consent: Clearly outline data collection, storage, and usage practices.
+Ongoing Updates: Provide regular updates on data use and policy changes.
+Opt-Out Flexibility: Allow users to opt out of features or discontinue use without penalty.
+Risk-First Disclosure: Highlight significant risks prominently in consent forms.
+Equity and Accountability Policy
+Algorithm Audits: Regularly evaluate algorithms to ensure unbiased and equitable outcomes.
+Inclusive Datasets: Prioritize the use of representative datasets to reduce disparities in health insights and interventions.
+Affordable Access: Ensure device affordability and equitable public health program benefits.
+Impact Assessment: Conduct periodic evaluations of the social and health impacts of initiatives driven by wearable device data, with a focus on equity.
+Independent Oversight Policy
+Community Advisory Board: Create a board with diverse representation, including ethicists, healthcare professionals, and community leaders, to review data practices and provide recommendations.
+Third-Party Audits: Hire independent auditors to regularly evaluate compliance with privacy, consent, and equity standards.
+Public Reporting: Publish regular reports summarizing oversight activities, findings, and any corrective measures implemented to enhance accountability.
+
+
+## Context
+This project was developed as part of **LIS 461: Studies on AI Privacy Frameworks**, focusing on ethical, legal, and social implications of wearable health data.
